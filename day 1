@@ -11,3 +11,6 @@ Internet   React native app
        Backend
 question2: how to add users in AWS
 using IAM
+question: Difference between Authentication and Authorization?
+Authentication is for entering into app/tool
+Authorization is what level of permission you have.

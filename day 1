@@ -19,3 +19,6 @@ Using IAM we create
 2:group:takes care of Authentication
 3:Roles:takes care of Authorization
 4:Policies:takes care of Authorization
+What is the advantage of picking up the region closer to us while creating EC2 instance?
+Ans: lowers latency.
+

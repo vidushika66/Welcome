@@ -1,5 +1,5 @@
 Reverse proxy is for verifying and you can also handle the custom logic(add validations ,can block some users)  before forwarding the actual traffic to your application that is to your front end or the web.
-question: what is using as reverse proxy?
+question1: what is using as reverse proxy?
 Answer: Nginx or Envoy
 Architecture of any application
 Internet   React native app
@@ -9,4 +9,5 @@ Internet   React native app
        Frontend
          +
        Backend
-  
+question2: how to add users in AWS
+using IAM

@@ -14,4 +14,8 @@ using IAM
 question: Difference between Authentication and Authorization?
 Authentication is for entering into app/tool
 Authorization is what level of permission you have.
-IAM takes care of Authentication
+Using IAM we create
+1: Users:takes care of Authentication
+2:group:takes care of Authentication
+3:Roles:takes care of Authorization
+4:Policies:takes care of Authorization

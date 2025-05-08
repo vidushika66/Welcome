@@ -22,3 +22,9 @@ Using IAM we create
 What is the advantage of picking up the region closer to us while creating EC2 instance?
 Ans: lowers latency.
 While creating EC2 instance make sure to enable Assign public IP in network setting configuration,otherise you would not be able to access machine using public ip address.
+How to lgin into ec2 instance you created?
+1:using putty,Mobilextream...
+2)from your machine using ssh.
+in your machine go to path->download folder where you downloaded pem.xml file
+cd download/
+ssh -i pem.xml ubuntu@public ip address of machine

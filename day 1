@@ -21,4 +21,4 @@ Using IAM we create
 4:Policies:takes care of Authorization
 What is the advantage of picking up the region closer to us while creating EC2 instance?
 Ans: lowers latency.
-
+While creating EC2 instance make sure to enable Assign public IP in network setting configuration.

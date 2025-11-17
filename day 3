@@ -1,0 +1,9 @@
+Let's delve into Authentication and Authorization in Kubernetes.
+
+Authentication is the process of verifying one's identity to access an application or tool, while Authorization determines the level of permissions granted.
+
+In Kubernetes, IAM is utilized to establish Users and groups, managing the Authentication aspect.
+
+Now, what role does RBAC play in Kubernetes? RBAC is pivotal for Authorization within Kubernetes, dictating the permissions granted to users.
+
+Consider this scenario: A developer requires read-only access to an EKS cluster. To facilitate this, the creation of a Cluster Role and bindings is essential to grant the necessary read-only permissions.

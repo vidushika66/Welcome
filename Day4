@@ -1,1 +1,2 @@
 For Network load balancer there is no http support
+Difference between Users and Rles? Users are physical person or service account that exists in organization which have credentials. while roles are for temporary access to any resources in AWS to access other resources in AWS.

@@ -1,5 +1,5 @@
 Q1:Difference between demon set and stateful set with example use case?
-Ans: DS ensures that every node runs exact one instance of pod if workloads is  node-scoped not an application-scoped ex monitoring system(prometheus,DataDog)  
+Ans: DS ensures that every node runs exact one instance of pod .it is used in case when workloads is node-scoped not an application-scoped ex monitoring system(prometheus,DataDog)  
 whereas stateful set is used for stateful Application that require stable pod identity ,persitent volumes ,ordered deployments/updates ex Databases(mongo,mysql),Distributed system
 Q2:How to connect a specific container from a web browser (network)
 Q3:How to secure connection between pods?
